@@ -1,2 +1,2 @@
-# JS-SaeyahnTracker / JS-새얀트래커
+# PowerShell-SaeyahnTracker / PS-SaeyahnTracker
 ![logosvg_inkscape](jssaeyahn.svg)
